@@ -13,6 +13,9 @@
 --- 	Shows you’re testing the Phillips Curve in India.
 ### fertility_analysis.R
 --- This R project explores the relationship between fertility rate (births per woman) and female labor force participation (FLFP) in India using World Bank data (1990–2022).
+### urbanization_electricity_regression.R
+--- This project explores the relationship between urbanization and access to electricity in India using World Development Indicators (WDI) data. The analysis uses a simple linear regression model to examine whether increasing urban population correlates with greater electricity access.
+
 `
 ## 📘 Study Focus
 -  prusing ***CMA Final and ***CFA 
